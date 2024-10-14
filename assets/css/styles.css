@@ -78,6 +78,7 @@ button {
     padding: .8rem 4.5rem;
     border-radius: .3rem;
     border: 1px solid #8a0bd3;
+    cursor: pointer;
 }
 
 .contactos {
